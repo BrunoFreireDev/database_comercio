@@ -29,7 +29,4 @@ Praticar conceitos fundamentais de banco de dados, incluindo:
 - BrModelo
 - VScode
 - MySQL Workbench
-
-- MySQL
 - MySQL Workbench
-- Diagramas ER
